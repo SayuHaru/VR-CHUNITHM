@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{B6399CB2-437B-C652-8297-A2F7A18F2551}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/HP.cs">
+    <Files>
+      <File FileName="Assets/hanntei.cs" Line="1" Column="1" />
+      <File FileName="Assets/nort_sin.cs" Line="31" Column="40" />
+      <File FileName="Assets/Script/ScoreManager.cs" Line="1" Column="26" />
+      <File FileName="Assets/Script/Combo Manager.cs" Line="16" Column="24" />
+      <File FileName="Assets/Script/nort_Generator.cs" Line="42" Column="8" />
+      <File FileName="Assets/Script/HP.cs" Line="12" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VROTO" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True" />
+              <Node name="Script" expanded="True">
+                <Node name="HP.cs" selected="True" />
+              </Node>
+              <Node name="SpaceSkies Free" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5cde9f0c-4039-4ca5-8143-790f07f982e4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
